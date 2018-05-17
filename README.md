@@ -17,4 +17,4 @@ Found any course(s) that are captioned/subtitled? Let us know through these chan
 ## Acknowledgements
 
 - Tim Kettering for repo name suggestion, `awesome-list-of-captioned-courses`
-- [deafpros.com](https://www.deafpros.com/) for spuring the idea
+- [deafpros.com](https://www.deafpros.com/) for spurring the idea
