@@ -21,3 +21,85 @@ Found any course(s) that are captioned/subtitled? Let us know through these chan
 
 - Tim Kettering for repo name suggestion, `awesome-list-of-captioned-courses`
 - [Deaf Pros Slack](https://www.deafpros.com/) for spurring the idea
+
+- - - - -
+
+Alphabetize by A-Z
+
+### .NET
+
+### Amazon Alexa
+
+### Android
+
+### APIs
+Includes Watson, GraphQL, etc.
+
+### Artificial Intelligence (AI)
+
+### Business
+Includes resume-building, presentation skills, business planning, copyright/licensing, etc.
+
+### C#
+
+### CSS
+
+### Data Science
+
+### Databases
+Includes MongoDB, SQL, etc.
+
+### Design
+
+### Development
+
+### Drupal
+
+### Freelance
+Includes management, clients, referrals, portfolio-building, invoicing, legal contracts, etc.
+
+### Game Development
+Includes Unity, Maya, ec.
+
+### Go
+
+### HTML
+
+### Information Architecture (IA)
+
+### iOS
+
+### Java
+
+### JavaScript
+Includes AngularJS, ReactJS, and more 
+
+### Marketing & Sales
+Includes Inbound, Content and Email Marketing, etc.
+
+### PHP
+
+### Python
+
+### Quality Assurance (QA)
+Includes Selenium and other test automation tools
+
+### Ruby
+Includes Ruby on Rail (RoR)
+
+### Security
+Includes data, web, etc.
+
+### Search Engine Optimization (SEO)
+
+### Social Media
+
+### Technology
+
+### User Experience (UX)
+
+### User Interface (UI)
+
+### Virtual / Augmented Reality
+
+### WordPress
