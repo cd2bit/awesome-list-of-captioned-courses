@@ -13,7 +13,7 @@ To make it easier to track courses that are captioned/subtitled
 Found any course(s) that are captioned/subtitled? Let us know through these channels:
 - Create a pull request
 - Email at [cd2bit@gmail.com](mailto:cd2bit@gmail.com)
-- Ping us if you're on [Deaf Pros Slack](https://www.deafpros.com/)
+- Ping Jason Salerno or Nick Ng if you're on [Deaf Pros Slack](https://www.deafpros.com/)
 
 **Contributing Guidelines coming soon*
 
