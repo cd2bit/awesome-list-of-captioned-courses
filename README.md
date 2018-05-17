@@ -1,7 +1,7 @@
 # awesome-list-of-captioned-courses
 Online professional courses that are captioned and/or subtitled. And why awesome? 'Cause it just is.
 
-*List of courses coming soon*
+*List of courses coming soon; meanwhile, view [Airtable version](https://airtable.com/shr4C4ccaiyTQDDSg/tblCEvvhzqp1bgCoC)* 
 
 - - - - -
 
