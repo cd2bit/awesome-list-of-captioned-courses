@@ -1,6 +1,8 @@
 # awesome-list-of-captioned-courses
 Online professional courses that are captioned and/or subtitled. And why awesome? 'Cause it just is.
 
+*List of courses coming soon*
+
 - - - - -
 
 ## Motivation
