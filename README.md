@@ -10,10 +10,11 @@ Online professional courses that are captioned and/or subtitled. And why awesome
 To make it easier to track courses that are captioned/subtitled
 
 ## Contribute*
-Found any course(s) that are captioned/subtitled or make a suggestion? Let us know through these channels:
-- Create an issue request
-- Email at [cd2bit@gmail.com](mailto:cd2bit@gmail.com)
-- Ping Jason Salerno or Nick Ng if you're on [Deaf Pros Slack](https://www.deafpros.com/)
+Found any course(s) that are captioned/subtitled or make a suggestion? Let us know (By order of preferred way to be notified):
+1. Create an [Issue](https://github.com/cd2bit/awesome-list-of-captioned-courses/issues)
+2. Fill out the [form](https://cd2bit.typeform.com/to/WpRyji)
+3. Email at [cd2bit@gmail.com](mailto:cd2bit@gmail.com)
+4. Ping Jason Salerno or Nick Ng if you're on [Deaf Pros Slack](https://www.deafpros.com/)
 
 **Contributing Guidelines coming soon*
 
