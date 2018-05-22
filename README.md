@@ -60,4 +60,4 @@ Found any course(s) that are captioned/subtitled or make a suggestion? Let us kn
 # The List of (Not-So-Awesome) Platform/Courses
 Sometimes, we come across platforms/courses that aren't captioned/subtitled and seemingly, making no progress to make these accessible
 
-- [Skillshare](https://www.skillshare.com/)
+- [Skillshare](https://www.skillshare.com/): "We do not offer closed captioning or subtitles at the moment. We recognize how helpful they could be for many students and hope to offer this feature in the near future." - Source: [Skillshare Help Center: Does Skillshare offer closed captioning or subtitles?](https://help.skillshare.com/hc/en-us/articles/205221437-Does-Skillshare-offer-closed-captioning-or-subtitles-)
