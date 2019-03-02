@@ -57,7 +57,8 @@ Found any course(s) that are captioned/subtitled or make a suggestion? Let us kn
 
 - - - - -
 
-# The List of (Not-So-Awesome) Platform/Courses
-Sometimes, we come across platforms/courses that aren't captioned/subtitled and seemingly, making no progress to make these accessible
+# The List of Not-So-Awesome (They should do better) Platform/Courses
+Sometimes, we come across platforms/courses that aren't captioned/subtitled or seemingly, making no or little progress to make these accessible
 
-- [Skillshare](https://www.skillshare.com/): "We do not offer closed captioning or subtitles at the moment. We recognize how helpful they could be for many students and hope to offer this feature in the near future." - Source: [Skillshare Help Center: Does Skillshare offer closed captioning or subtitles?](https://help.skillshare.com/hc/en-us/articles/205221437-Does-Skillshare-offer-closed-captioning-or-subtitles-)
+- [Skillshare](https://www.skillshare.com/): Update (03/02/2019): "Captions are available on all classes with the “Skillshare Original” or “Staff Pick” badges on Skillshare.com. These captions will only show on skillshare.com and the Android app, but not yet on the iOS app. We do hope to expand to more languages, and add captions to all Skillshare classes on all platforms, so stay tuned for updates!" - Source: [Skillshare Help Center: Which classes have captions?](https://help.skillshare.com/hc/en-us/articles/360015348371-Which-classes-have-captions-)
+    - ~"We do not offer closed captioning or subtitles at the moment. We recognize how helpful they could be for many students and hope to offer this feature in the near future."~ - Source: [Skillshare Help Center: Does Skillshare offer closed captioning or subtitles?](https://help.skillshare.com/hc/en-us/articles/205221437-Does-Skillshare-offer-closed-captioning-or-subtitles-)
